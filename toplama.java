@@ -16,9 +16,15 @@ public class toplama{
                 ciftToplam+=i;
             }
         }
-        System.out.println(ciftToplam);
+        System.out.println("10 ile 20 arasi cift sayilar toplami = " + ciftToplam);
 
+        // 1 ile 10 arasi tek sayilari yazdir
 
-
+        for (int i = 1; i < 10; i++) {
+            if(i%2==1){
+            System.out.print(i + "-");
+            }
+            
+        }
     }
 }

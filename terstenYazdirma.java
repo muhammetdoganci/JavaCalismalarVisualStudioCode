@@ -7,6 +7,7 @@ public class terstenYazdirma {
             
         }
         System.out.println(tesrYazi);
-        System.out.println(yazi.length());
+
+        
     }
 }
