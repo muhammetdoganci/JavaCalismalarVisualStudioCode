@@ -1,4 +1,4 @@
-package forLoop;
+package donguler;
 
 public class methodCagirma {
     public static void main(String[] args) {

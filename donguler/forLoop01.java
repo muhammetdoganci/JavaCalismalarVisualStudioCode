@@ -1,4 +1,4 @@
-package forLoop;
+package donguler;
 
 import java.util.Scanner;
 
